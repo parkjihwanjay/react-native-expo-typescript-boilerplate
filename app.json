@@ -1,0 +1,12 @@
+{
+  "name": "react-native-typescript-boilerplate",
+  "displayName": "react-native-typescript-boilerplate",
+  "expo": {
+    "name": "react-native-typescript-boilerplate",
+    "slug": "react-native-typescript-boilerplate",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

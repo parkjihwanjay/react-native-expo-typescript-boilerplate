@@ -1,0 +1,29 @@
+{
+  "React Native with typescript and styled-components": {
+    "prefix": "rtn",
+    "body": [
+      "import React from 'react';",
+      "import {} from 'react-native';",
+      "interface IProps {}",
+      "",
+      "const ${TM_FILENAME_BASE}:React.FC<IProps> = () => {",
+      "return <View></View>",
+      "}",
+      "",
+      "export default ${TM_FILENAME_BASE}",
+    ],
+    "description": ""
+  },
+  "styled-components": {
+    "prefix": "st",
+    "body": [
+      "import styled from 'styled-components/native';",
+      "import {} from 'react-native';",
+      "",
+      "export const Conatiner = styled.View`",
+      "",
+      "`"
+    ],
+    "description": ""
+  }
+}
